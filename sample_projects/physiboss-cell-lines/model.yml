@@ -1,0 +1,5 @@
+short_name: phyiboss-cell-lines
+version: 1.0.0
+binary: PhysiBoSS_Cell_Lines
+config: 
+  - config/PhysiCell_settings.xml
